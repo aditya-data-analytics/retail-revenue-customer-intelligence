@@ -93,6 +93,15 @@ The original dataset is not included in this repository because of its file size
 - `data/` — Dataset instructions.
 - `screenshots/` — Project visualisations and dashboard screenshots.
 
+
+## Project Files
+
+- [Python Analysis Notebook](./Retail_Revenue_Customer_Intelligence_Final%20(1).ipynb)
+- [Detailed Project Report](./RETAIL%20REVENUE%20REPORT.docx)
+- [Dataset Instructions](./data/README.md)
+- [Python Dependencies](./requirements.txt)
+
+
 ## How to Run the Project
 
 1. Clone or download this repository.
